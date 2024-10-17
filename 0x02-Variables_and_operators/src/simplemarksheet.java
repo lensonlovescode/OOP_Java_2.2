@@ -54,5 +54,6 @@ public class simplemarksheet
         System.out.println(line);
         System.out.println(Full_string_1);
         System.out.println(Full_string_2);
+        scanner_obj.close();
     }
 }
